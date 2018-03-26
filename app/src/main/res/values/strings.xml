@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <string name = "coffee_list">Coffee List</string>
+
+    <string name="thank_you">Thank You !!!</string>
+    <string name="order_summary_name">Name: <xliff:g id= "nameOfCust" example="Amy">%s</xliff:g></string>
+
+</resources>
